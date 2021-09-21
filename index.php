@@ -426,7 +426,19 @@
                             <a href="https://flightaware.com/">Flight Tracker courtesy of FlightAware.com</a>
                         </div> -->
                     </div>                
-			</section>            
+			</section>       
+            
+			<section id="block4" class="module-block">				
+				<h2>Opción #5 rastreador de vuelos</h2>
+                <div>
+                    <iframe src="https://es.flightaware.com/live/airport/KLAX" width="675" height="410" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+                        <br />
+                        <!--<div style="font-size: x-small;">
+                            <a href="https://flightaware.com/">Flight Tracker courtesy of FlightAware.com</a>
+                        </div> -->
+                    </div>                
+			</section>                   
+            
             
 			
 		</section><!-- page-wrap -->
