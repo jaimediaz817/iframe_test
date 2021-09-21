@@ -384,7 +384,7 @@
 			<article id="block1" class="module-block">
                 <h2>Buscar tiquetes aéreos USA:</h2>
                 <!-- <iframe src="" height="500" width="900"></iframe>  -->
-                <iframe src="scrapedcontent.php" height="500" width="900"></iframe>
+                <iframe src="scrapedcontent.php" height="500" width="1200"></iframe>
 				
 				<img class="right" src="http://placehold.it/150" alt="" />
 
