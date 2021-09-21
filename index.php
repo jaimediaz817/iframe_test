@@ -382,7 +382,7 @@
 
 	  
 			<article id="block1" class="module-block">
-                <h2>Buscar tiquetes aéreos USA:</h2>
+                <h2>Incrustación del sitio base suregido (no funcionan búsqeudas ni links):</h2>
                 <!-- <iframe src="" height="500" width="900"></iframe>  -->
                 <iframe src="scrapedcontent.php" height="500" width="900"></iframe>
 				
@@ -406,7 +406,7 @@
 		   
 			<section id="block2" class="module-block">
 
-				<h2>Segundo sitio de pruebas para incrustar IFRAME, VUELOS:</h2>
+				<h2>Incrustación IFRAME mediante mapa, VUELOS:</h2>
                 <div><iframe src="https://es.flightaware.com/about/link.rvt" width="675" height="410" frameborder="0" marginheight="0" marginwidth="0"></iframe><br /><div style="font-size: x-small;"><a href="https://flightaware.com/">Flight Tracker courtesy of FlightAware.com</a></div></div> 
 
 				
@@ -445,7 +445,9 @@
 			
 			<section id="block3" class="module-block">
 				
-				<h2>2nd Level Heading</h2>
+				<h2>Opción #3 inrustación a través de formulario</h2>
+                <div data-skyscanner-widget="SearchWidget"></div>
+                <script src="https://widgets.skyscanner.net/widget-server/js/loader.js" async></script>                
 			  
 				<ul class="gallery">
 
