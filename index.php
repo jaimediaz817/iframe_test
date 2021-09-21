@@ -410,13 +410,13 @@
 			</section>
 		
 			<section id="block3" class="module-block">				
-				<h2>Opción #3 inrustación a través de formulario</h2>
+				<h2>Opción #3 Incrustación a través de formulario</h2>
                 <div data-skyscanner-widget="SearchWidget"></div>
                 <script src="https://widgets.skyscanner.net/widget-server/js/loader.js" async></script>                			
 			</section>
 
 			<section id="block4" class="module-block">				
-				<h2>Opción #4 inrustación a través de Iframe y consultas desde el mismo HTML origen</h2>
+				<h2>Opción #4 Incrustación a través de Iframe y consultas desde el mismo HTML origen</h2>
                 <div>
                     <iframe src="https://www.kayak.com/horizon/sem/flights/region/r129?lang=en&skipapp=true" width="675" height="410" frameborder="0" marginheight="0" marginwidth="0"></iframe>
                         <br />
