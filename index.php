@@ -449,99 +449,15 @@
                 <div data-skyscanner-widget="SearchWidget"></div>
                 <script src="https://widgets.skyscanner.net/widget-server/js/loader.js" async></script>                
 			  
-				<ul class="gallery">
 
-					<li>
-						<a href="#">
-							<img alt="" src="http://placehold.it/200"/>
-						</a>
-					</li>
-					<li>
-						<a href="#">
-							<img alt="" src="http://placehold.it/200"/>
-						</a>
-					</li>
-
-					<li>
-						<a href="#">
-							<img alt="" src="http://placehold.it/200"/>
-						</a>
-					</li>
-
-					<li>
-						<a href="#">
-							<img alt="" src="http://placehold.it/200"/>
-						</a>
-					</li>
-
-					<li>
-						<a href="#">
-							<img alt="" src="http://placehold.it/200"/>
-						</a>
-					</li>
-
-					<li>
-						<a href="#">
-							<img alt="" src="http://placehold.it/200"/>
-						</a>
-					</li>
-
-					<li>
-						<a href="#">
-							<img alt="" src="http://placehold.it/200"/>
-						</a>
-					</li>
-
-					<li>
-						<a href="#">
-							<img alt="" src="http://placehold.it/200"/>
-						</a>
-					</li>
-
-					<li>
-						<a href="#">
-							<img alt="" src="http://placehold.it/200"/>
-						</a>
-					</li>
-
-					<li>
-						<a href="#">
-							<img alt="" src="http://placehold.it/200"/>
-						</a>
-					</li>
-
-					<li>
-						<a href="#">
-							<img alt="" src="http://placehold.it/200"/>
-						</a>
-					</li>
-
-					<li>
-						<a href="#">
-							<img alt="" src="http://placehold.it/200"/>
-						</a>
-					</li>
-
-					<li>
-						<a href="#">
-							<img alt="" src="http://placehold.it/200"/>
-						</a>
-					</li>
-
-					<li>
-						<a href="#">
-							<img alt="" src="http://placehold.it/200"/>
-						</a>
-					</li>
-
-					<li>
-						<a href="#">
-							<img alt="" src="http://placehold.it/200"/>
-						</a>
-					</li>
-
-				</ul>
-
+                <div class="airportia-widget"><iframe scrolling="no" frameborder="0"
+                style="border:0; width: 100%; height: 95%; min-height: 650px; margin:0; padding:0;"
+                src="https://www.airportia.com/widgets/flight/ba1439/"></iframe><div style="font-family: arial,sans-serif; font-size:12px; color:#3f9bdc; width: 100%; text-align: center; margin-top: 2px; padding-top: 5px; border-top: 1px solid #65747e;"><a style="text-decoration:none; color:#3f9bdc;"
+               href="https://www.airportia.com/flights/ba1439/edinburgh/london/"
+               title="BA1439 Flight"
+               target="_top">BA1439 Flight</a>
+            powered by <a style="text-decoration:none; color:#3f9bdc;" href="https://www.airportia.com/" target="_top"
+              title="flight tracker">Airportia Flight Tracker</a></div></div>
 			</section>
 			
 		</section><!-- page-wrap -->
