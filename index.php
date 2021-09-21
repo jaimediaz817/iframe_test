@@ -405,22 +405,27 @@
 
 		   
 			<section id="block2" class="module-block">
-
 				<h2>Incrustación IFRAME mediante mapa, VUELOS:</h2>
-                <div><iframe src="http://embed.flightaware.com/commercial/integrated/web/delay_map.rvt" width="675" height="410" frameborder="0" marginheight="0" marginwidth="0"></iframe><br /><div style="font-size: x-small;"><a href="https://flightaware.com/">Flight Tracker courtesy of FlightAware.com</a></div></div> 
-			
+                <div><iframe src="http://embed.flightaware.com/commercial/integrated/web/delay_map.rvt" width="675" height="410" frameborder="0" marginheight="0" marginwidth="0"></iframe><br /><div style="font-size: x-small;"><a href="https://flightaware.com/">Flight Tracker courtesy of FlightAware.com</a></div></div> 			
 			</section>
-
-			
-			<section id="block3" class="module-block">
-				
+		
+			<section id="block3" class="module-block">				
 				<h2>Opción #3 inrustación a través de formulario</h2>
                 <div data-skyscanner-widget="SearchWidget"></div>
-                <script src="https://widgets.skyscanner.net/widget-server/js/loader.js" async></script>                
-			  
-
-
+                <script src="https://widgets.skyscanner.net/widget-server/js/loader.js" async></script>                			
 			</section>
+
+			<section id="block4" class="module-block">				
+				<h2>Opción #4 inrustación a través de formulario</h2>
+                <div>
+                    <iframe src="https://www.kayak.com/horizon/sem/flights/region/r129?lang=en&skipapp=true" width="675" height="410" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+                        <br />
+                        <!--<div style="font-size: x-small;">
+                            <a href="https://flightaware.com/">Flight Tracker courtesy of FlightAware.com</a>
+                        </div> -->
+                    </div>                
+			</section>            
+            
 			
 		</section><!-- page-wrap -->
 			
