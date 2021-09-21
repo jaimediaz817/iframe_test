@@ -355,6 +355,8 @@
             }
             
         </style>
+
+
 	</head>
 	
 	<body>
@@ -504,7 +506,10 @@
 		</footer>
 	
 
-
+        <script nonce="" src="https://static.flightstats.com/v2/prod/c-11864f-467/manifest-d6d37b619cff0b6ce5ac.js" charset="UTF-8"></script>        
+        <script nonce="" src="https://static.flightstats.com/v2/prod/c-11864f-467/vendor-d6d37b619cff0b6ce5ac.js" charset="UTF-8"></script>
+        <script nonce="" charset="UTF-8">(function () { if ("serviceWorker" in navigator) { navigator.serviceWorker.register("/v2/static/dist/sw.js"); } })()</script>
+        <script nonce="" src="https://static.flightstats.com/v2/prod/c-11864f-467/main-d6d37b619cff0b6ce5ac.js" charset="UTF-8"></script>
 
 	</body>
 </html>
