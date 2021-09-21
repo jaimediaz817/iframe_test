@@ -406,8 +406,8 @@
 		   
 			<section id="block2" class="module-block">
 
-				<h2>2nd Level Heading</h2>
-                <iframe src="https://www.google.ie/gwt/x?u=https://www.flightstats.com/v2"></frame>
+				<h2>Segundo sitio de pruebas para incrustar IFRAME, VUELOS:</h2>
+                <div><iframe src="http://embed.flightaware.com/commercial/integrated/web/delay_map.rvt" width="675" height="410" frameborder="0" marginheight="0" marginwidth="0"></iframe><br /><div style="font-size: x-small;"><a href="https://flightaware.com/">Flight Tracker courtesy of FlightAware.com</a></div></div> 
 
 				
 			   	<article class="post">
