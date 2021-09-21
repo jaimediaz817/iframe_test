@@ -410,7 +410,7 @@
 			</section>
 		
 			<section id="block3" class="module-block">				
-				<h2>Opción #3 Incrustación a través de formulario</h2>
+				<h2>Opción #3 Incrustación a través de formulario que lleva a página externa</h2>
                 <div data-skyscanner-widget="SearchWidget"></div>
                 <script src="https://widgets.skyscanner.net/widget-server/js/loader.js" async></script>                			
 			</section>
