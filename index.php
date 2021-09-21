@@ -407,38 +407,7 @@
 			<section id="block2" class="module-block">
 
 				<h2>Incrustación IFRAME mediante mapa, VUELOS:</h2>
-                <div><iframe src="https://es.flightaware.com/about/link.rvt" width="675" height="410" frameborder="0" marginheight="0" marginwidth="0"></iframe><br /><div style="font-size: x-small;"><a href="https://flightaware.com/">Flight Tracker courtesy of FlightAware.com</a></div></div> 
-
-				
-			   	<article class="post">
-					
-					<h3>
-						<a href="#">
-							Article Title
-							<img src="http://placehold.it/200" alt="" />
-						</a>
-					</h3>
-					
-					<strong class="date">1.01.2012</strong>
-					
-					<p>Cupcake ipsum dolor. Sit amet sweet roll icing cupcake ice cream sugar plum. Danish I love biscuit carrot cake tart jelly beans candy. Chupa chups chocolate bar I love pie ice cream brownie gummi bears. Soufflé cookie I love gummi bears faworki sweet sweet tart croissant. Muffin bonbon danish wafer candy macaroon I love dessert. Muffin pudding danish chupa chups. Halvah lollipop applicake icing. Brownie I love cupcake. I love gingerbread cheesecake gummi bears powder candy toffee icing. Pastry jelly beans candy canes dragée croissant I love halvah jujubes. Cotton candy icing wafer caramels applicake. <a href="#">Read full article &rarr;</a></p>
-				
-				</article>
-
-				<article class="post">						
-					
-					<h3>
-						<a href="#">
-							Article Title 
-							<img src="http://placehold.it/200" alt="" />
-						</a>
-					</h3>
-					
-					<strong class="date">01.01.2012</strong>
-					
-					<p>Cupcake ipsum dolor. Sit amet sweet roll icing cupcake ice cream sugar plum. Danish I love biscuit carrot cake tart jelly beans candy. Chupa chups chocolate bar I love pie ice cream brownie gummi bears. Soufflé cookie I love gummi bears faworki sweet sweet tart croissant. Muffin bonbon danish wafer candy macaroon I love dessert. Muffin pudding danish chupa chups. Halvah lollipop applicake icing. Brownie I love cupcake. I love gingerbread cheesecake gummi bears powder candy toffee icing. Pastry jelly beans candy canes dragée croissant I love halvah jujubes. Cotton candy icing wafer caramels applicake.. <a href="#">Read full article &rarr;</a></p>
-				
-				</article>
+                <div><iframe src="https://es.flightaware.com/about/link.rvt" width="675" height="410" frameborder="0" marginheight="0" marginwidth="0"></iframe><br /><div style="font-size: x-small;"><a href="https://flightaware.com/">Flight Tracker courtesy of FlightAware.com</a></div></div> 		
 			
 			</section>
 
@@ -450,14 +419,7 @@
                 <script src="https://widgets.skyscanner.net/widget-server/js/loader.js" async></script>                
 			  
 
-                <div class="airportia-widget"><iframe scrolling="no" frameborder="0"
-                style="border:0; width: 100%; height: 95%; min-height: 650px; margin:0; padding:0;"
-                src="https://www.airportia.com/widgets/flight/ba1439/"></iframe><div style="font-family: arial,sans-serif; font-size:12px; color:#3f9bdc; width: 100%; text-align: center; margin-top: 2px; padding-top: 5px; border-top: 1px solid #65747e;"><a style="text-decoration:none; color:#3f9bdc;"
-               href="https://www.airportia.com/flights/ba1439/edinburgh/london/"
-               title="BA1439 Flight"
-               target="_top">BA1439 Flight</a>
-            powered by <a style="text-decoration:none; color:#3f9bdc;" href="https://www.airportia.com/" target="_top"
-              title="flight tracker">Airportia Flight Tracker</a></div></div>
+
 			</section>
 			
 		</section><!-- page-wrap -->
