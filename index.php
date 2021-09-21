@@ -1,3 +1,17 @@
+<!-- <?php
+if (isset($_GET['url'])) {
+    $url = $_GET['url'];
+    $ch = curl_init();
+    $timeout = 5;
+    curl_setopt($ch, CURLOPT_URL, $url);
+    curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
+    curl_setopt($ch, CURLOPT_CONNECTTIMEOUT, $timeout);
+    $data = curl_exec($ch);
+    curl_close($ch);
+    echo $data;
+}
+?> -->
+
 <!DOCTYPE html>
 <html>
   <head>
@@ -382,7 +396,8 @@
 
 	  
 			<article id="block1" class="module-block">
-                <iframe src="https://www.flightstats.com/v2" height="500" width="900"></iframe> 
+                <iframe src="/redirect.php?url=https://www.flightstats.com/v2"></iframe>
+                <!-- <iframe src="" height="500" width="900"></iframe>  -->
 				<h2>2nd Level Heading</h2>
 				
 				<img class="right" src="http://placehold.it/150" alt="" />
