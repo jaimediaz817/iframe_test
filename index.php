@@ -407,7 +407,7 @@
 			<section id="block2" class="module-block">
 
 				<h2>Incrustación IFRAME mediante mapa, VUELOS:</h2>
-                <div><iframe src="https://es.flightaware.com/about/link.rvt" width="675" height="410" frameborder="0" marginheight="0" marginwidth="0"></iframe><br /><div style="font-size: x-small;"><a href="https://flightaware.com/">Flight Tracker courtesy of FlightAware.com</a></div></div> 		
+                <div><iframe src="http://embed.flightaware.com/commercial/integrated/web/delay_map.rvt" width="675" height="410" frameborder="0" marginheight="0" marginwidth="0"></iframe><br /><div style="font-size: x-small;"><a href="https://flightaware.com/">Flight Tracker courtesy of FlightAware.com</a></div></div> 
 			
 			</section>
 
