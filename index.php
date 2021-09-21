@@ -396,7 +396,7 @@ if (isset($_GET['url'])) {
 
 	  
 			<article id="block1" class="module-block">
-                <iframe src="/redirect.php?url=https://www.flightstats.com/v2"></iframe>
+                <iframe src="https://www.flightstats.com/v2"></iframe>
                 <!-- <iframe src="" height="500" width="900"></iframe>  -->
 				<h2>2nd Level Heading</h2>
 				
